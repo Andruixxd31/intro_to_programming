@@ -1,0 +1,123 @@
+Porcentaje de madres menores de 15 en el 2015 an cada municipio
+
+Acatlán de Juárez	 0.01763% 
+Acatlán de Juárez	 0.01668% 
+Amacueca	 0.00000% 
+Amatitán	 0.02557% 
+Ameca	 0.00641% 
+San Juanito de Escobedo	 0.00000% 
+Arandas	 0.00247% 
+Atemajac de Brizuela	 0.02936% 
+Atengo	 0.00000% 
+Atenguillo	 0.00000% 
+Atotonilco el Alto	 0.01620% 
+Atoyac	 0.04661% 
+Autlán de Navarro	 0.01936% 
+Ayotlán	 0.01543% 
+Ayutla	 0.00000% 
+La Barca	 0.00894% 
+Bolaños	 0.05416% 
+Cabo Corrientes	 0.02000% 
+Casimiro Castillo	 0.00923% 
+Cihuatlán	 0.03398% 
+Zapotlán el Grande	 0.00553% 
+Cocula	 0.00730% 
+Colotlán	 0.01081% 
+Concepción de Buenos Aires	 0.03350% 
+Cuautitlán de García Barragán	 0.02216% 
+Cuautla	 0.00000% 
+Cuquío	 0.00000% 
+Chapala	 0.01148% 
+Chimaltitán	 0.00000% 
+Chiquilistlán	 0.00000% 
+Degollado	 0.00908% 
+Ejutla	 0.00000% 
+Encarnación de Díaz	 0.01439% 
+Etzatlán	 0.00000% 
+El Grullo	 0.00000% 
+Guachinango	 0.00000% 
+Guadalajara	 0.00714% 
+Hostotipaquillo	 0.04197% 
+Huejúcar	 0.00000% 
+Huejuquilla el Alto	 0.00000% 
+La Huerta	 0.00825% 
+Ixtlahuacán de los Membrillos	 0.02234% 
+Ixtlahuacán del Río	 0.00000% 
+Jalostotitlán	 0.00585% 
+Jamay	 0.00000% 
+Jesús María	 0.00939% 
+Jilotlán de los Dolores	 0.00000% 
+Jocotepec	 0.01271% 
+Juanacatlán	 0.00000% 
+Juchitlán	 0.00000% 
+Lagos de Moreno	 0.00355% 
+El Limón	 0.00000% 
+Magdalena	 0.00000% 
+Santa María del Oro	 0.00000% 
+La Manzanilla de la Paz	 0.00000% 
+Mascota	 0.00000% 
+Mazamitla	 0.01390% 
+Mexticacán	 0.00000% 
+Mezquitic	 0.09894% 
+Mixtlán	 0.00000% 
+Ocotlán	 0.02553% 
+Ojuelos de Jalisco	 0.00598% 
+Pihuamo	 0.00000% 
+Poncitlán	 0.04157% 
+Puerto Vallarta	 0.01161% 
+Villa Purificación	 0.01943% 
+Quitupan	 0.02293% 
+El Salto	 0.02711% 
+San Cristóbal de la Barranca	 0.00000% 
+San Diego de Alejandría	 0.00000% 
+San Juan de los Lagos	 0.01705% 
+San Julián	 0.00000% 
+San Marcos	 0.00000% 
+San Martín de Bolaños	 0.00000% 
+San Martín Hidalgo	 0.02109% 
+San Miguel el Alto	 0.00000% 
+Gómez Farías	 0.01339% 
+Sayula	 0.01565% 
+Tala	 0.01714% 
+Talpa de Allende	 0.00000% 
+Tamazula de Gordiano	 0.01015% 
+Tapalpa	 0.00000% 
+Tecalitlán	 0.00000% 
+Tecolotlán	 0.01147% 
+Techaluta de Montenegro	 0.00000% 
+Tenamaxtlán	 0.02854% 
+Teocaltiche	 0.00000% 
+Teocuitatlán de Corona	 0.00000% 
+Tepatitlán de Morelos	 0.00277% 
+Tequila	 0.00937% 
+Teuchitlán	 0.00000% 
+Tizapán el Alto	 0.01853% 
+Tlajomulco de Zúñiga	 0.00858% 
+Tlaquepaque	 0.01282% 
+Tolimán	 0.00000% 
+Tomatlán	 0.03408% 
+Tonalá	 0.00804% 
+Tonaya	 0.00000% 
+Tonila	 0.02523% 
+Totatiche	 0.00000% 
+Tototlán	 0.00856% 
+Tuxcacuesco	 0.00000% 
+Tuxcueca	 0.09346% 
+Tuxpan	 0.00563% 
+Unión de San Antonio	 0.04325% 
+Unión de Tula	 0.00000% 
+Valle de Guadalupe	 0.00000% 
+Valle de Juárez	 0.03625% 
+San Gabriel	 0.03633% 
+Villa Corona	 0.01100% 
+Villa Guerrero	 0.00000% 
+Villa Hidalgo	 0.00000% 
+Cañadas de Obregón	 0.00000% 
+Yahualica de González Gallo	 0.01699% 
+Zacoalco de Torres	 0.01412% 
+Zapopan	 0.00835% 
+Zapotiltic	 0.00671% 
+Zapotitlán de Vadillo	 0.02884% 
+Zapotlán del Rey	 0.01115% 
+Zapotlanejo	 0.02299% 
+San Ignacio Cerro Gordo	 0.00000% 
